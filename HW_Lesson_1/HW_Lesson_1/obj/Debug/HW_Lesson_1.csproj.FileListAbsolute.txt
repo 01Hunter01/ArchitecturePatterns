@@ -1,0 +1,7 @@
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\bin\Debug\HW_Lesson_1.exe.config
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\bin\Debug\HW_Lesson_1.exe
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\bin\Debug\HW_Lesson_1.pdb
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\obj\Debug\HW_Lesson_1.csproj.AssemblyReference.cache
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\obj\Debug\HW_Lesson_1.csproj.CoreCompileInputs.cache
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\obj\Debug\HW_Lesson_1.exe
+D:\Geekbrains_Developer on Unity\Архитектруа и Шаблоны проектрирования на C#\HomeWork\HW_Lesson_1\HW_Lesson_1\obj\Debug\HW_Lesson_1.pdb
